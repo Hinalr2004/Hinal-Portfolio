@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a premium cinematic portfolio designed for aspiring software developers, featuring interactive 3D elements and smooth transitions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

@@ -19,3 +19,7 @@ logs/
 # beside it.
 /.plugins/
 /.opencode-skills/
+
+!.figma/
+!.figma/make/
+!.figma/make/site.json
